@@ -1,0 +1,38 @@
+C:\C#\New folder\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\C#\New folder\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\C#\New folder\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\C#\New folder\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\C#\New folder\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frm2.resources
+C:\C#\New folder\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\C#\New folder\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\C#\New folder\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\C#\New folder\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\C#\New folder\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\C#\New folder\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frm1.resources
+C:\C#\New folder\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\C#\project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\C#\project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\C#\project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\C#\project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\C#\project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frm1.resources
+C:\C#\project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frm2.resources
+C:\C#\project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\C#\project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\C#\project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\C#\project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\C#\project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\C#\project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\C#\project\GAME MARIO\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\C#\project\GAME MARIO\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frm1.resources
+C:\C#\project\GAME MARIO\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frm2.resources
+C:\C#\project\GAME MARIO\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\C#\project\GAME MARIO\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\C#\project\GAME MARIO\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\C#\project\GAME MARIO\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\C#\project\GAME MARIO\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\C#\project\GAME MARIO\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\C#\project\GAME MARIO\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\C#\project\GAME MARIO\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\C#\project\GAME MARIO\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frm3.resources
+C:\C#\project\GAME MARIO\WindowsFormsApp1\obj\Debug\Interop.WMPLib.dll
+C:\C#\project\GAME MARIO\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
